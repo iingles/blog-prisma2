@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iingles/blog-prisma2/issues"
   },
-  "homepage": "https://github.com/iingles/blog-prisma2#readme"
+  "homepage": "https://github.com/iingles/blog-prisma2#readme",
+  "dependencies": {
+    "prisma2": "^2.0.0-preview024"
+  }
 }
