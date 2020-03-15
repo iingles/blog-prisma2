@@ -6,13 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iingles/blog-prisma2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@zeit/next-css": "^1.0.1",
-    "next": "^9.3.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
-  }
+  "bugs": {
+    "url": "https://github.com/iingles/blog-prisma2/issues"
+  },
+  "homepage": "https://github.com/iingles/blog-prisma2#readme"
 }
